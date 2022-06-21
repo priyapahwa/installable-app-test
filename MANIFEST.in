@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+recursive-include receipts/static *
+recursive-include receipts/templates *
+recursive-include docs *
